@@ -21,7 +21,7 @@ params:
     main: 'Lucas Schmitz'
     sub: M.A Economics
   main:
-    latestPublishHeader: My Latest Project
+    latestPublishHeader: 
   mainSections: about
   notFound:
     gopher: /images/gopher.png
