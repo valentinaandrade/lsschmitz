@@ -19,7 +19,7 @@ params:
     text: ''
   intro:
     main: 'Lucas Schmitz'
-    sub: MA Economics
+    sub: M.A Economics
   main:
     latestPublishHeader: My Latest Project
   mainSections: portfolio
