@@ -22,7 +22,7 @@ params:
     sub: M.A Economics
   main:
     latestPublishHeader: My Latest Project
-  mainSections: portfolio
+  mainSections: about
   notFound:
     gopher: /images/gopher.png
     h1: Sorry!
