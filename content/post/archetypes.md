@@ -1,8 +1,8 @@
 ---
-date: "2019-05-02T19:25:30+02:00"
-description: How the Archetypes are defined
-publishDate: "2019-05-02T19:25:30+02:00"
 title: Archetypes management
+description: How the Archetypes are defined
+date: "2019-05-02T19:25:30+02:00"
+publishDate: "2019-05-02T19:25:30+02:00"
 ---
 
 The archetypes are defined in the `archetypes` folder, for both post and portfolio.

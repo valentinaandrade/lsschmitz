@@ -1,8 +1,8 @@
 ---
-date: "2019-05-02T19:49:05+02:00"
-description: How to define your portfolio in FrontMatter
-publishDate: "2019-05-02T19:49:05+02:00"
 title: Portfolio Definition
+description: How to define your portfolio in FrontMatter
+date: "2019-05-02T19:49:05+02:00"
+publishDate: "2019-05-02T19:49:05+02:00"
 ---
 
 Here are some details about the portfolio settings.

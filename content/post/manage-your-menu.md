@@ -1,8 +1,8 @@
 ---
-date: "2019-05-02T19:06:29+02:00"
+title: "Manage Your Menu"
 description: Define a sidebar menu
+date: 2019-05-02T19:06:29+02:00
 draft: true
-title: Manage Your Menu
 ---
 
 Menu in the sidebar can be defined within the `config.toml` or directly in the files.

@@ -1,8 +1,8 @@
 ---
-date: "2019-05-03T09:37:55+02:00"
-description: Getting started with personal-web
-publishDate: "2019-05-03T09:37:55+02:00"
 title: Getting started
+description: Getting started with personal-web
+date: "2019-05-03T09:37:55+02:00"
+publishDate: "2019-05-03T09:37:55+02:00"
 ---
 
 Here are some details to help you getting started with this theme.

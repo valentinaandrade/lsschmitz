@@ -1,8 +1,8 @@
 ---
-date: "2019-04-20T16:18:12+01:00"
+title: "Config File"
 description: Some basics on the configuration of the theme
-publishDate: "2019-04-20T19:12:12+01:00"
-title: Config File
+date: 2019-04-20T16:18:12+01:00
+publishDate: 2019-04-20T19:12:12+01:00
 ---
 
 Here is the basic config file used for personal-web.
