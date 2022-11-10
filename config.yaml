@@ -1,6 +1,6 @@
 baseURL: https://lsschmitz.netlify.app
 languageCode: en-us
-title: Edna West
+title: valentinandrade
 theme: personal-web
 copyright: © Edna West
 googleAnalytics: ''
@@ -9,17 +9,17 @@ enableRobotsTXT: yes
 pygmentsUseClasses: yes
 pygmentsCodeFences: yes
 params:
-  accentColor: '#FD3519'
+  accentColor: '#1921fd'
   assets:
     customCSS: ''
     favicon: ''
   breadcrumb: yes
   contact:
-    email: ''
+    email: 'lsschmitz@uc.cl'
     text: ''
   intro:
-    main: 'Hi, I''m Edna :wave:'
-    sub: I'm a Web Developer and Entrepreneur
+    main: 'Lucas Schmitz'
+    sub: MA Economics
   main:
     latestPublishHeader: My Latest Project
   mainSections: portfolio
@@ -35,16 +35,16 @@ params:
     gradientOverlay: ''
     logo: ''
   social:
-    codepen: https://codepen.io/
-    facebook: https://www.facebook.com/
+    codepen: 
+    facebook: 
     github: https://github.com/
-    gitlab: https://gitlab.com/
-    instagram: https://www.instagram.com/
-    keybase: https://keybase.io/
+    gitlab: 
+    instagram: 
+    keybase: 
     linkedin: https://www.linkedin.com/in/
-    medium: https://medium.com/
-    twitter: https://twitter.com/
-    youtube: https://www.youtube.com/
+    medium: 
+    twitter: https://twitter.com/lsschmitz2
+    youtube: 
 taxonomies:
   design: designs
   tech: techs
@@ -58,14 +58,14 @@ menu:
       url: /about/
       weight: -120
     - identifier: portfolio
-      name: Portfolio
-      title: Portfolio
-      url: /portfolio/
+      name: Research
+      title: Research
+      url: /research/
       weight: -110
-    - identifier: blog
-      name: Post
-      title: Blog section
-      url: /post/
+    - identifier: cv
+      name: CV
+      title: cv
+      url: /cv/
       weight: -100
 sitemap:
   changefreq: monthly
