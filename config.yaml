@@ -25,7 +25,7 @@ params:
   mainSections: portfolio
   notFound:
     gopher: /images/gopher.png
-    h1: Bummer!
+    h1: Sorry!
     p: It seems that this page doesn't exist.
   sections:
     portfolio: project
