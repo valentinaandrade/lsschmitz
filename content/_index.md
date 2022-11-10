@@ -1,13 +1,20 @@
 ---
-title: HOME
-description: Welcome to this sample project
+title: About me
+description: 
 images: ["/images/sample.jpg"]
 ---
 
-Hey,
+I’m a *M.A Economics* student at PUC. My research interests are in market design, industrial organization and microeconomics theory. In particular, I'm interested in auctions =) and valentinas and pacas. 
 
-I'm Edna West, a Web Developer and Entrepreneur.
+<html>
+   <head>
+      <title></title>
+   </head>
+   <body>
+      <form>
+         <button type="submit" formaction="hola">You can find my CV here</button>
+      </form>
+   </body>
+</html>
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus error cumque quisquam necessitatibus libero dolore porro, quo at molestiae modi voluptatibus iusto alias corporis. Accusamus, debitis, atque. Maiores, distinctio, neque.
-
-[Get to know me better](/about "Get to know me better")
+See my post [here](/post)
