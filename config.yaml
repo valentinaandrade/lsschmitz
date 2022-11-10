@@ -57,7 +57,7 @@ menu:
       title: About section
       url: /about/
       weight: -120
-    - identifier: portfolio
+    - identifier: CV
       name: CV
       title: CV
       url: /cv/
@@ -67,6 +67,7 @@ menu:
       title: Resarch
       url: /post/
       weight: -100
+      
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
