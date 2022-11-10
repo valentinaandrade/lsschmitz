@@ -16,7 +16,7 @@ params:
   breadcrumb: yes
   contact:
     email: 'lsschmitz@uc.cl'
-    text: ''
+    text: 'Contact me'
   intro:
     main: 'Lucas Schmitz'
     sub: M.A Economics
