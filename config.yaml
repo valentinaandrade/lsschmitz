@@ -15,7 +15,7 @@ params:
     favicon: ''
   breadcrumb: yes
   contact:
-    email: 'mailto: lsschmitz@uc.cl'
+    email: 'mailto:lsschmitz@uc.cl'
     text: 'Contact me'
   intro:
     main: 'Lucas Schmitz'
