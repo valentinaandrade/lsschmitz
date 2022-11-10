@@ -33,7 +33,7 @@ params:
   sidebar:
     backgroundImage: ''
     gradientOverlay: ''
-    logo: ''
+    logo: 'images/lucas.png'
   social:
     codepen: 
     facebook: 
