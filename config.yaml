@@ -64,7 +64,7 @@ menu:
       weight: -110
     - identifier: Research
       name: Research
-      title: Resarch
+      title: 'Research'
       url: /post/
       weight: -100
       
