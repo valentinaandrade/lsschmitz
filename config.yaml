@@ -58,14 +58,14 @@ menu:
       url: /about/
       weight: -120
     - identifier: portfolio
-      name: Research
-      title: Research
-      url: /research/
-      weight: -110
-    - identifier: cv
       name: CV
-      title: cv
+      title: CV
       url: /cv/
+      weight: -110
+    - identifier: Research
+      name: Research
+      title: Resarch
+      url: /Research/
       weight: -100
 sitemap:
   changefreq: monthly
