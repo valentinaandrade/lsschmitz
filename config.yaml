@@ -2,7 +2,7 @@ baseURL: https://lsschmitz.netlify.app
 languageCode: en-us
 title: valentinandrade
 theme: personal-web
-copyright: © Edna West
+copyright:
 googleAnalytics: ''
 enableEmoji: yes
 enableRobotsTXT: yes
