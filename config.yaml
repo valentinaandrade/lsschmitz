@@ -65,7 +65,7 @@ menu:
     - identifier: Research
       name: Research
       title: Resarch
-      url: /Research/
+      url: /post/
       weight: -100
 sitemap:
   changefreq: monthly
