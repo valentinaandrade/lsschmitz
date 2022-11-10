@@ -1,6 +1,6 @@
 ---
-title: POST
-description: 'Posts Section'
+title: Research 
+description: 'Research Section'
 ---
 
-You'll add here a general introduction of your posts.
+You'll add here a general introduction of your research.
